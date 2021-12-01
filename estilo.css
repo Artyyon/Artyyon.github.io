@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mohave&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    /* font-family: 'Mohave', sans-serif;; */
+}
+
+.container{
+    text-align: justify;
+}
+
+hr{
+    margin: 0 130px 0 130px;
+}
